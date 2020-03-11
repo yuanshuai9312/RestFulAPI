@@ -1,0 +1,9 @@
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\bin\Debug\RestFulClient.exe.config
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\bin\Debug\RestFulClient.exe
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\bin\Debug\RestFulClient.pdb
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\bin\Debug\Newtonsoft.Json.dll
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\obj\Debug\RestFulClient.csprojAssemblyReference.cache
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\obj\Debug\RestFulClient.csproj.CoreCompileInputs.cache
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\obj\Debug\RestFulClient.csproj.CopyComplete
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\obj\Debug\RestFulClient.exe
+E:\Restful-Service-And-Restful-Client-master\RestFulClient\obj\Debug\RestFulClient.pdb

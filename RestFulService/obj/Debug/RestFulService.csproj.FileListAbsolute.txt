@@ -1,0 +1,7 @@
+E:\Restful-Service-And-Restful-Client-master\RestFulService\bin\Debug\RestFulService.exe.config
+E:\Restful-Service-And-Restful-Client-master\RestFulService\bin\Debug\RestFulService.exe
+E:\Restful-Service-And-Restful-Client-master\RestFulService\bin\Debug\RestFulService.pdb
+E:\Restful-Service-And-Restful-Client-master\RestFulService\obj\Debug\RestFulService.csprojAssemblyReference.cache
+E:\Restful-Service-And-Restful-Client-master\RestFulService\obj\Debug\RestFulService.csproj.CoreCompileInputs.cache
+E:\Restful-Service-And-Restful-Client-master\RestFulService\obj\Debug\RestFulService.exe
+E:\Restful-Service-And-Restful-Client-master\RestFulService\obj\Debug\RestFulService.pdb
